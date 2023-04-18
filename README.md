@@ -6,3 +6,5 @@ Normally an MZ-700 would require the MZ-1U06 expansion unit to add expansion car
 The adapter can be made with a vertical or horizontal MZ-700 expansion card as can be seen here: https://twitter.com/engineerswork1/status/1640438637006553088
 
 Either submit the latest release zip package in releases/ directory to a PCB fabrication plant or contact me as I may have spare.
+
+My website, https://eaw.app will have full build instructions in due course.
